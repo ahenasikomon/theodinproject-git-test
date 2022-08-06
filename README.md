@@ -1,2 +1,2 @@
-# theodinproject-git-test
+# top-git-test
 My first GitHub repo!
